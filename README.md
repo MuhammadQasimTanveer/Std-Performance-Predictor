@@ -15,27 +15,6 @@ Open browser at **http://localhost:8501**
 
 ---
 
-## Files
-
-```
-├── app.py                    # Main application
-├── requirements.txt          # Dependencies
-├── student_performance.csv   # Dataset (400 students, 10 features)
-└── README.md
-```
-
----
-
-## Pages
-
-| Page | Description |
-|------|-------------|
-| Dashboard | Model accuracy, R² scores, evaluation table, best model highlight |
-| Predict | Enter student data → get Pass/Fail + predicted score from all 4 models |
-| Dataset | First 20 rows + correlation heatmap |
-
----
-
 ## Models Used
 
 | Task | Algorithm |
