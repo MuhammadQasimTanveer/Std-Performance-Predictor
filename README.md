@@ -7,6 +7,8 @@ A web-based ML app that predicts student pass/fail and expected score using 4 su
 ## Setup
 
 ```bash
+python -m venv virtualenv
+virtualenv\Scripts\activate
 pip install -r requirements.txt
 streamlit run app.py
 ```
