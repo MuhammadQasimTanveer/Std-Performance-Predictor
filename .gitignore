@@ -1,0 +1,8 @@
+models/*.pkl
+__pycache__/
+*.pyc
+.env
+virtualenv/
+venv/
+.vscode/
+.ipynb_checkpoints/
